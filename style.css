@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.container{
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    
+
+}
+
+.search-btn{
+    font-family: arial, sans-serif;
+    padding: 14px 40px;
+    margin-right: 20px;
+    
+    font-weight: bold;
+    
+}
+
